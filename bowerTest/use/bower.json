@@ -1,0 +1,22 @@
+{
+  "name": "use",
+  "homepage": "https://github.com/logicfeel/PJ-Git",
+  "authors": [
+    "logicfeel <logicfeel@nate.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "b_unit": "../component/b_unit/",
+    "asp_unit": "../component/asp_unit.2/",
+    "asp_unit.1": "../component/asp_unit.1/"
+  }
+}

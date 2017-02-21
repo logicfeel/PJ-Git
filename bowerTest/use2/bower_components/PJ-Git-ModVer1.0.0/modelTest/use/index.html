@@ -1,0 +1,31 @@
+<head>
+<head>
+
+    <link rel="import" href="node_modules/@b_module/main/b.html">
+</head>
+<dody>
+
+<h2>b module</h2>
+
+
+
+
+
+<script src="node_modules/vm_module/viewModel.js"></script>
+
+<script>
+    // alert(VM.entity);
+
+    var link = document.querySelector('link[rel="import"]');
+    var content = link.import;
+
+    // Grab DOM from warning.html's document.
+    var el = content.querySelector('.warning');
+
+    document.body.appendChild(el.cloneNode(true));
+
+
+</script>
+
+</dody>
+</head>

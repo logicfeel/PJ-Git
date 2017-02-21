@@ -1,0 +1,17 @@
+{
+  "name": "a_unit",
+  "homepage": "https://github.com/logicfeel/PJ-Git",
+  "authors": [
+    "logicfeel <logicfeel@nate.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

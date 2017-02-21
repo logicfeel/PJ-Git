@@ -1,0 +1,12 @@
+{
+  "name": "default",
+  "_cacheHeaders": {
+    "Content-Length": "2197",
+    "Content-Type": "text/html; Charset=UTF-8"
+  },
+  "main": "index.asp",
+  "_source": "http://logicfeel.iptime.org/default.asp",
+  "_target": "*",
+  "_originalSource": "http://logicfeel.iptime.org/default.asp",
+  "_direct": true
+}

@@ -1,0 +1,37 @@
+<head>
+<head>
+
+    <link rel="import" href="node_modules/b_module/b.html">
+</head>
+<dody>
+
+<h2>index module</h2>
+
+<div id="cnt"></div>        
+
+
+
+
+<script>
+    // alert(VM.entity);
+
+    var link = document.querySelector('link[rel="import"]');
+    var content = link.import;
+
+    // Grab DOM from warning.html's document.
+    var el = content.querySelector('.warning');
+
+    var imports = document.querySelector('#cnt');
+    imports.appendChild(el.cloneNode(true));
+
+
+if (G_Model.load !== undefined) {
+    G_Model.load();
+}
+
+
+
+</script>
+
+</dody>
+</head>

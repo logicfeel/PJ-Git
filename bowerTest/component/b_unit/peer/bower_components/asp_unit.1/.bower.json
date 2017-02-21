@@ -1,0 +1,21 @@
+{
+  "name": "asp_unit.1",
+  "homepage": "https://github.com/logicfeel/PJ-Git",
+  "authors": [
+    "logicfeel <logicfeel@nate.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_source": "D:\\PJ-Git\\PJ-Git\\bowerTest\\component\\asp_unit.1",
+  "_target": "*",
+  "_originalSource": "../../asp_unit.1",
+  "_direct": true
+}
